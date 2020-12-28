@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.choiceBox {
+  height: 78%;
+  width: 27%;
+  background-color: darkcyan;
+  margin-top: 2%;
+}
